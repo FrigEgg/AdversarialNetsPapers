@@ -264,3 +264,4 @@ The First paper
 :white_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)(NIPS Lecun Slides)
 
 :white_check_mark: [3] [[ICCV 2017 Tutorial About GANS]](https://sites.google.com/view/iccv-2017-gans/schedule)
+mygit
